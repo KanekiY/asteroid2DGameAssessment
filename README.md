@@ -47,7 +47,7 @@ Alternatively, a list of ‘Collision Component pointer’ is used to manage the
 
 <h2>Object Factory:</h2>
 
-The object creation used to be highly coupled with ‘game code’. By creating a factory, the object creation will no longer be coupled with the game code. And the factory is furtherly integrated into the object manager for the convenience of development.
+The object creation is highly coupled with ‘game code’. By creating a factory, the object creation will no longer be coupled with the game code. And the factory is furtherly integrated into the object manager for the convenience of development. Now a new object can be created without new keyword
 
 <h2>Messenger:</h2>
 
